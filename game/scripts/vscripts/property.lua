@@ -1,7 +1,8 @@
 --[[ 
     AUTHOR: Adam Curtis, Copyright 2015
     CONTACT: kallisti.dev@gmail.com
-    WEBSITE: https://github.com/kallisti-dev/baregrills
+    WEBSITE: https://github.com/kallisti-dev/vector_target
+    LICENSE: https://github.com/kallisti-dev/vector_target/blob/master/LICENSE 
     
     A library for adding a sophsticated set of event-driven properties to game entities. Features include:
     
